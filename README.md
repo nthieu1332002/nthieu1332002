@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm @nthieu1332002 Nguyen Trung Hieu.</h1>
 <h3 align="center">I’m a Front-end Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nthieu1332002&label=Profile%20views&color=0e75b6&style=flat" alt="nthieu1332002" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://nthieu-portfolio.vercel.app/](https://nthieu-portfolio.vercel.app/)
 
 - 📫 How to reach me **nthieu1332002@gmail.com**
