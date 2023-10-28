@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm @nthieu1332002 Nguyen Trung Hieu.</h1>
-<h3 align="center">I’m a Front-end Developer.</h3>
-
 - 👨‍💻 All of my projects are available at [https://nthieu-portfolio.vercel.app/](https://nthieu-portfolio.vercel.app/)
 
 - 📫 How to reach me **nthieu1332002@gmail.com**
