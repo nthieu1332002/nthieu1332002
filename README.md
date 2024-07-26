@@ -1,4 +1,4 @@
-Hi, I'm <b>Hieu</b>
+Hi, I'm <b>Hieu</b>.
 - 👨‍💻 All of my projects are available at [https://nthieu-portfolio.vercel.app/](https://nthieu-portfolio.vercel.app/)
 
 - 📫 How to reach me **nthieu1332002@gmail.com**
