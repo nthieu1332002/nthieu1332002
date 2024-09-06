@@ -8,4 +8,4 @@ Hi, I'm <b>Hieu</b>.
 
 <p><img align="left"src="https://github-readme-stats.vercel.app/api?username=nthieu1332002&show_icons=true&locale=en&theme=dark&bg_color=212830" alt="nthieu1332002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthieu1332002&show_icons=true&locale=en&layout=compact&theme=dark" alt="nthieu1332002"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthieu1332002&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=212830" alt="nthieu1332002"/></p>
