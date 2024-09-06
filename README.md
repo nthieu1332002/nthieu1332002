@@ -6,6 +6,6 @@ Hi, I'm <b>Hieu</b>.
 - 📄 Know about my experiences [https://nthieu-portfolio.vercel.app/about](https://nthieu-portfolio.vercel.app/about)
 
 
-<p><img align="left"src="https://github-readme-stats.vercel.app/api?username=nthieu1332002&show_icons=true&locale=en&theme=radical" alt="nthieu1332002" /></p>
+<p><img align="left"src="https://github-readme-stats.vercel.app/api?username=nthieu1332002&show_icons=true&locale=en&theme=dark" alt="nthieu1332002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthieu1332002&show_icons=true&locale=en&layout=compact&theme=radical" alt="nthieu1332002"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthieu1332002&show_icons=true&locale=en&layout=compact&theme=dark" alt="nthieu1332002"/></p>
